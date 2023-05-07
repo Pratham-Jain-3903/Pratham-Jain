@@ -1,0 +1,21 @@
+__global__ void reduce(float *input, float *output, int N) {
+
+    extern __shared__ float sdata[];
+
+    int tid = threadIdx.x;
+    int i = blockIdx.x * blockDim.x + threadIdx.x;
+
+    sdata[tid] = (i < N) ? input[i] : 0;
+    __syncthreads();
+
+    for (int s = blockDim.x / 2; s > 0; s >>= 1) {
+        if (tid < s) {
+            sdata[tid] += sdata[tid + s];
+        }
+        __syncthreads();
+    }
+
+    if (tid == 0) {
+        output[blockIdx.x] = sdata[0];
+    }
+}

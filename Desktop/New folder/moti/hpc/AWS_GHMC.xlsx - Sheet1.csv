@@ -1,0 +1,130 @@
+AWS_ID,AWS_Location,Mandal,Latitude,Longitude
+10001,Moulali,Uppal,17.454636,78.55968
+10002,Sivaramapalle,Rajendranagar,17.32777,78.424416
+10006,Jubileehills,Shaikpet,17.429745,78.40413
+10012,Musheerabad (chilkalguda),Musheerabad,17.424212,78.50107
+10013,Bandlaguda,Uppal,17.365685,78.572
+10014,Madhapur,Serilingampally,17.4531,78.3747
+10308,Guchibowli,Serilingampally,17.4704,78.3259
+10534,Kandikal Gate,Bandlaguda,17.331907,78.47795
+10535,Maitrivanam,Ameerpet,17.436794,78.44608
+10544,Hayathnagar,Hayathnagar,17.334883,78.61245
+10924,Asmanghad,Saidabad,17.363827,78.51595
+10932,Tirumalagiri,Tirumalagiri,17.47133,78.50146
+10935,BHEL Factory,Ramachandrapuram,17.494,78.28343
+10976,Malkajgiri,Malkajgiri,17.455627,78.529465
+10995,Balanagar,Kukatpally,17.470497,78.4334
+10998,Quthbullapur,Quthbullapur,17.500448,78.45005
+11189,Shaikpet,Shaikpet,17.397783,78.40016
+11191,West Maredpally,Marredpally,17.454077,78.51219
+11192,Mondamarket,Secunderabad,17.433496,78.49795
+11194,Narayanaguda,Himayatnagar,17.396914,78.48905
+11195,Srinagarcolony,Khairatabad,17.430462,78.44195
+11196,Asifnagar,Asifnagar,17.395454,78.428925
+11197,Bathukamma kunta ESS,Amberpet,17.395014,78.511215
+11198,Chandulal Baradari (Opp. Zoo Park),Bahadurpura,17.345076,78.44931
+11199,Golkonda,Golkonda,17.374846,78.39555
+11200,Nampally,Nampally,17.385736,78.46863
+11201,Qutballapur (GHMC Office),Qutballapur,17.499475,78.453545
+11203,Kapra (GHMC Office),Kapra,17.469929,78.56661
+11204,L.B.Nagar (GHMC Office),Saroornagar,17.367014,78.53533
+11206,Sardarmahal (zonal commissioner office),Charminar,17.360765,78.47597
+11513,Rajendranagar (ARS),Rajendranagar,17.3244,78.3993
+11780,Shapur Nagar,Qutballapur,17.525246,78.44452
+11812,Jeedimetla,Quthbullapur,17.522223,78.44139
+11925,Macha Bollaram Near Water Tank,Alwal,17.5185,78.509605
+11927,Central University (Near South Complex),Serilingampally,17.4531,78.3185
+12007,Begumpet (IMD Office),Balanagar,17.4482,78.46503
+12542,Ganaanka Bhavan,Khairatabad,17.407976,78.46022
+30011,Kothabasthi Comm Hall: Alwal,Alwal,17.49628,78.507256
+30012,Telecomcolony: Venkatapuram,Alwal,17.491573,78.4984
+30015,Malakpet Millath Comm Hall,Amberpet,17.38106,78.50033
+30016,Karwan Panipura Comm Hall,Asifnagar,17.3732,78.44626
+30017,Gudimalkapur SBI Colony (communiy hall,Asifnagar,17.383303,78.43956
+30018,Ziaguda Ranganath Comm Hall (beside ranganatha temple),Asifnagar,17.369156,78.45109
+30019,Football Ground Vijayanagar Colony,Asifnagar,17.39327,78.45216
+30021,Chandulal Baradari Sports Complex: Doodbowli,Bahadurpura,17.352516,78.461525
+30022,Bandi Adda Community Hall: Gansibazar,Bahadurpura,17.366512,78.463104
+30023,Kishanbagh Govt High School,Bahadurpura,17.360172,78.440414
+30024,Setwin Training Center: Suleman Nagar,Bahadurpura,17.353971,78.43286
+30025,Ferozguda Comm Hall: Balanagar,Balanagar,17.464579,78.462425
+30026,Mothinagar Ward Office: Moosapet,Balanagar,17.45625,78.42234
+30027,Bhagath Singh Nagar Park: Fateh Nagar,Balanagar,17.457764,78.45098
+30030,Barkas Ward Office,Bandlaguda,17.315153,78.47857
+30031,OWISI Commnuity Hall: Kanchanbagh,Bandlaguda,17.32707,78.49423
+30032,Indiranagar Community Hall,Bandlaguda,17.323479,78.47543
+30033,Balashetty Water Tank Building(HMWS): Dabeerpura,Charminar,17.369099,78.484436
+30034,Libraray Building: Rein Bazar,Charminar,17.357998,78.493484
+30036,GHMC Welfare Office: Shaikpet,Gandipet,17.404531,78.39681
+30037,Lungerhouse Haridsaspura Comm Hall,Golkonda,17.378,78.41603
+30041,Lingojiguda Ward Office,Saroornagar,17.34681,78.53438
+30042,Prashanth Nagar Comm Hall: Vanasthalipuram,Hayathnagar,17.335426,78.56772
+30043,South Hasthinapuram South Comm Hall,Hayathnagar,17.324724,78.55497
+30046,Veerannagudaa Comm Hall: Kachiguda,Himayatnagar,17.390278,78.498055
+30047,Kushaiguda old ward office: Cherlapalli,Kapra,17.482077,78.57407
+30048,Maheshnagar Ward Office: Dr.A.S.Rao Nagar,Kapra,17.479156,78.55792
+30049,Cherlapally Health Center,Kapra,17.464495,78.61104
+30051,Dr.MCRHRD IT Campus,Shaikpet,17.433477,78.42055
+30052,Pillidarga Ward Office: Borabanda,Khairatabad,17.451488,78.40889
+30053,Yousufguda HMWBS: (Krishnanagar),Khairatabad,17.437017,78.43232
+30054,Fatima Nagar community Hall,Khairatabad,17.450256,78.42733
+30055,CBCID Colony: KPHB,Kukatpally,17.497517,78.38051
+30056,Balaji Nagar,Kukatpally,17.482891,78.409325
+30060,HMT hills: Hyder Nagar,Kukatpally,17.503048,78.399536
+30061,Allapur Vivekananda Nagar Comm Hall,Kukatpally,17.459558,78.399475
+30063,Prasanth Nagar Community Hall: East Anandbagh,Malkajgiri,17.444721,78.54305
+30064,Madhusudhan Nagar Comm.Hall,Malkajgiri,17.4427,78.5277
+30065,Vivekanandapuram Comm Hall: Neredmet,Malkajgiri,17.4892,78.53111
+30067,Addagutta Community Hall,Malkajgiri,17.443056,78.52361
+30068,Indiranagar Community Hall: Tarnaka,Malkajgiri,17.441595,78.54256
+30069,Mettuguda Govt.: Primary School,Malkajgiri,17.433374,78.519394
+30070,Seethapalmandi Kindi Basthi Comm Hall,Maredpally,17.42639,78.513336
+30071,Pikit Health center:Contonment Area,Maredpally,17.452557,78.50003
+30074,Bansilalpet,Musheerabad,17.42632,78.4923
+30075,Osmania University Registrar Office,Musheerabad,17.406706,78.519226
+30076,Red Hills play ground,Nampally,17.395851,78.46462
+30077,Begum Bazar Doodh Khana UHC,Nampally,17.375645,78.47123
+30078,LB Stadium: Gunfoudry,Nampally,17.399162,78.47432
+30079,Dogs Control Building:Gowliwada Jumerath Bazar,Nampally,17.371206,78.46423
+30081,Shanthi nagar Kalyanamandapam: Patancheru,Patancheru,17.5279,78.265884
+30082,ModernComm Hall: Rangareddy Nagar,Quthbullapur,17.484777,78.44695
+30085,Gayatri Nagar: Jeedimetla,Quthbullapur,17.505287,78.4708
+30086,Ushodaya Colony Park: Gajularamaram,Quthbullapur,17.52225,78.42664
+30087,BR Ambedkar bhavan,Quthbullapur,17.538233,78.433464
+30088,GHMC Circle office: Rajendranagar,Rajendranagar,17.331856,78.408875
+30089,RDO Office: Attapur,Rajendranagar,17.357323,78.425385
+30090,Primary Urban Health Center: Jahanuma,Bahadurpura,17.33322,78.45729
+30091,Near Ekta Colony: Shastripuram (Sivarampally),Rajendranagar,17.330753,78.43711
+30092,Sub Staion: Mailardevpally: Sivarampally,Rajendranagar,17.31499,78.44551
+30094,DEO office Beside Substaion: R.C.Puram,Ramachandrapuram,17.509394,78.30196
+30095,Vinay Nagar Comm Hal: I.S.Sadan,Saidabad,17.352907,78.50762
+30098,Govt. Boys High School: Kurmaguda,Saidabad,17.36007,78.50423
+30099,Alakapuri Comm Hall,Saroornagar,17.36545,78.55312
+30100,Bavani Nagar Comm Hall,Saroornagar,17.35032,78.56226
+30101,Rock Town Colony: Nagole,Saroornagar,17.36184,78.56267
+30103,Patigadda,Secunderabad,17.433964,78.484116
+30104,Raidurga Ward Office: Gachibowli,Serilingampally,17.413216,78.3923
+30105,Kakatiya Hills: Madhapur,Serilingampally,17.441742,78.39747
+30106,JPN Nagar Comm Hall: Miyapur,Serilingampally,17.50657,78.35638
+30107,Urban Health Centre: Hafeezpet,Serilingampally,17.486649,78.35675
+30109,MMTS Lingampally,Serilingampally,17.485308,78.31467
+30110,PJR Stadium: Chandanagar,Serilingampally,17.488832,78.32437
+30111,Khajaguda Sports Complex Gachibowli,Serilingampally,17.418348,78.36665
+30112,Tolichowki Dalith Bhavan,Shaikpet,17.403591,78.419685
+30113,Venkateshwara Colony: Banjarahills,Shaikpet,17.419476,78.44202
+30114,CMTC Premises: Banjara Hills,Shaikpet,17.41398,78.43367
+30115,Goutham Nagar Function Hall: Filmnagar,Shaikpet,17.411781,78.41054
+30116,Venkatgiri Water Tank: Vengalrao Nagar,Shaikpet,17.432058,78.422134
+30117,Rajiv Nagar Community Hall,Uppal,17.4606,78.5704
+30118,Mallapur Biodiversity,Uppal,17.44587,78.57425
+30119,Chilkanagar Comm Hall,Uppal,17.421682,78.563255
+30121,Maruthi Nagar Mahila Sabha Center,Uppal,17.375414,78.54099
+30122,New Nagole Welfare asscoiation,Uppal,17.3734,78.55612
+30123,Habsiguda JSN Colony,Uppal,17.405237,78.54175
+30124,Ramanthapur Ward Office,Uppal,17.392805,78.536575
+30125,Nacharam Ward Office,Uppal,17.424128,78.54361
+30126,Balramnagar Welfare Association: Safilguda,Malkajgiri,17.466393,78.53417
+30127,GHMC Building Secunderabad,Himayatnagar,17.40791,78.47556
+30128,CESS,Khairatabad,17.432142,78.45264
+30129,Allabada Water Reservoir,Asifnagar,17.380026,78.45543
+30130,Mehdipatnam Navodaya Comm Hall,Asifnagar,17.387674,78.43624
